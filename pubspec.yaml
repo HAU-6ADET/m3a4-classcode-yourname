@@ -1,0 +1,10 @@
+name: m3a4_person
+description: Module 3 - Activity 4 - Person (getters & setters) (Dart).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0
